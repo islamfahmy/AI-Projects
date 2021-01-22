@@ -1,2 +1,2 @@
 # AI-Projects
-1) 8 puzzle solver using bfs and dfs and A*
+ implmentation of 8 puzzle game and solving it with c++ using bfs dfs and real time astar search 
